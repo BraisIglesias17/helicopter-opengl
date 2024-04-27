@@ -1,0 +1,6 @@
+Autor: Brais Iglesias Otero
+Nombre usuario classter: braisiglesias
+
+Título del proyecto: Boeing v-22 Casero
+
+NOTA: Para activar/desactivar las hélices se puede pulsar la tecla de espacio en blanco.
