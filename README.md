@@ -1,6 +1,6 @@
 # Helicopter using OpenGL
 
-This project consist con a funcitional helicopter drawn dot by dot in with Open Graphics Library.
+This project consist of a funcitional helicopter drawn dot by dot in with Open Graphics Library.
 
 ![vista1](https://github.com/BraisIglesias17/helicopter-opengl/assets/91885206/19f9b4f6-4cc7-4152-8a20-cf2996237e44)
 
